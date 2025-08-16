@@ -14,7 +14,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: 'Chrome Extension Icon Resizer - Generate Icons for Extensions',
     description: 'Easily resize and generate icons for Chrome extensions in multiple sizes. Upload your SVG or PNG and get all required icon sizes in one click.',
-    url: 'https://chrome-extension-icon-resizer-oafum20nx.vercel.app',
+    url: 'https://chrome-extension-icon-resizer-a23amgj6o.vercel.app',
     siteName: 'Chrome Extension Icon Resizer',
     images: [
       {
