@@ -1,0 +1,14 @@
+{
+  "name": "Chrome Extension Icon Resizer",
+  "short_name": "Icon Resizer",
+  "icons": [
+    {
+      "src": "/favicon.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    }
+  ],
+  "theme_color": "#4ade80",
+  "background_color": "#f0fdf4",
+  "display": "standalone"
+}
