@@ -1,6 +1,5 @@
 # Chrome Extension Icon Resizer
 
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/shiv908s-projects/v0-chrome-extension-icon-resizer)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
 ## Overview
@@ -100,7 +99,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgments
 
-- Thanks to [v0.dev](https://v0.dev) for the initial project scaffolding
 - Icons by [Lucide](https://lucide.dev/)
 - UI components by [shadcn/ui](https://ui.shadcn.com/)
 - Built with [Next.js](https://nextjs.org/) and [Tailwind CSS](https://tailwindcss.com/)
